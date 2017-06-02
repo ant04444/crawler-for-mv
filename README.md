@@ -1,2 +1,3 @@
 # crawler-for-mv
-crawler for http://www.zhuyin.com/v
+multi-thread crawler for http://www.zhuyin.com/v
+
